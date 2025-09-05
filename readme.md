@@ -38,10 +38,10 @@ A comprehensive RESTful API backend for managing inventory and billing operation
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/inventory-billing-backend.git
+git clone https://github.com/rajashekarpatha07/Inventry-managment.git
 
 # Navigate to project directory
-cd inventory-billing-backend
+cd Inventry-managment
 
 # Install dependencies
 npm install
@@ -119,11 +119,3 @@ inventory-billing-backend/
 └── README.md
 ```
 
-## 📄 License
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-For support, email support@example.com or create an issue in the repository.
