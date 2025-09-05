@@ -3,6 +3,10 @@
 ## Overview
 A comprehensive RESTful API backend for managing inventory and billing operations. Built for small to medium-sized businesses, this system handles products, contacts, transactions, and reporting with a robust architecture.
 
+## Testing
+Import the file `Inventory-Billing.postman_collection.json` into Postman and run the tests.
+
+
 ## 🚀 Key Features
 - **Authentication & Security**
   - JWT-based secure authentication
